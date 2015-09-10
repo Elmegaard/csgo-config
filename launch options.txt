@@ -1,0 +1,1 @@
+-full -freq 120 -refresh 120 -high +exec autoexec.cfg
